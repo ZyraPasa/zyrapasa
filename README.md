@@ -2,9 +2,6 @@
   <img height="200" src="https://i.imgur.com/PBPiJ8P.png"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/zyrapasa/zyrapasa/output/snake.svg" alt="Snake animation" />
 
 ###
 
